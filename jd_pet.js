@@ -64,7 +64,7 @@ let randomCount = $.isNode() ? 20 : 5;
       goodsUrl = '';
       taskInfoKey = [];
       option = {};
-      await shareCodesFormat();
+      // await shareCodesFormat();
       await jdPet();
     }
   }
